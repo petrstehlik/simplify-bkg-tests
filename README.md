@@ -13,8 +13,8 @@ The script assumes several things:
 * the binary is named simplify-bkg
 * tests are in testfiles/ folder
 * the naming is as follows
-    ** `{testnumber}-test.in` for input file
-    ** `{testnumber}-test-1.out` for output of the first algorithm
-    ** `{testnumber}-test-2.out` for output of the second algorithm
+    * `{testnumber}-test.in` for input file
+    * `{testnumber}-test-1.out` for output of the first algorithm
+    * `{testnumber}-test-2.out` for output of the second algorithm
 
 
