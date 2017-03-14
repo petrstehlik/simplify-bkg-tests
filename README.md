@@ -16,5 +16,3 @@ The script assumes several things:
     * `{testnumber}-test.in` for input file
     * `{testnumber}-test-1.out` for output of the first algorithm
     * `{testnumber}-test-2.out` for output of the second algorithm
-
-
