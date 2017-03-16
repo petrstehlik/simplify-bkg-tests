@@ -2,3 +2,5 @@ S,A
 a
 S
 S->A
+A->A
+A->a
